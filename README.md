@@ -2,9 +2,8 @@
 Mongodb简单Demo程序
 
 # 安装Mongodb
-软件下载地址：https://www.mongodb.com/download-center#community
-window安装不在详述
-mac安装步骤：
+软件下载地址：https://www.mongodb.com/download-center#community,window安装不在详述
+## mac安装步骤：
 1、进入 /usr/local
 ```
 cd /usr/local
