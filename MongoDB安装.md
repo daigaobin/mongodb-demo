@@ -37,3 +37,9 @@ sudo mongod
 ```
 sudo mongo
 ```
+
+## window启动命令
+```
+mongod --dbpath E:\Software\MongooDB\data
+```
+dbpath：数据库文件路径
